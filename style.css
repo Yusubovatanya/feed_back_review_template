@@ -277,8 +277,8 @@ p {
   box-sizing: border-box
 }
 
-.review_card:hover,
-.review_card:active {
+.review_container a:hover,
+.review_container a:active {
   background-color: #F5F5F7;
 }
 
